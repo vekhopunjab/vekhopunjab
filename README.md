@@ -26,9 +26,7 @@ Follow us on [Facebook](https://www.facebook.com/VekhoPunjab) and [Instagram](ht
 Thank you for choosing Vekho Punjab as your entertainment destination!
 
  ## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=vekhopunjab&theme=minimal"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=monshanto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💳 Github Profile Summary Card
 <p align="center">
